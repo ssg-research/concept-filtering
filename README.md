@@ -1,6 +1,6 @@
 # Espresso
 
-This paper will appear in ACM Conference on Data and Application Security and Privacy (CODASPY) 2025.
+This paper will appear in ACM Conference on Data and Application Security and Privacy (CODASPY) 2025 [Best Paper Award Winner] (https://dl.acm.org/doi/10.1145/3714393.3726502).
 
 This repo contains code that allows you to reproduce experiments for the concept-removal technique presented in "Espresso: Robust Concept Filtering in Text-to-Image Models". An extended version of the paper is available on [ArXiv](https://arxiv.org/abs/2404.19227).
 
